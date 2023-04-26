@@ -1,15 +1,15 @@
 <div id="header" align="center">
- <!-- <img src ="https://media.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif" width="45%"/> -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1500&center=true&multiline=true&width=1000&height=100&lines=Hey+There%2C+I'm+Austin+Johnson;Technically+Austin+Johnson;Fullstack+Web+Developer+and+Photographer" alt="Typing SVG"/>
+ <a href="https://git.io/typing-svg">
+   <img src="https://readme-typing-svg.demolab.com? font=Fira+Code&duration=4000&pause=1500&color=135001&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Hey+There%2C+I'm+Austin+Johnson;Technically+Austin+Johnson;Fullstack+Web+Developer+and+Photographer" alt="Typing SVG" />
   </a>
 </div>
                                                                                    
 <div id="social-badges" align="center">
-  <a href="https://www.linkedin.com/in/austinjjohnson/">
+  <a href="https://www.linkedin.com/in/austinjjohnson/" id="linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
   </a>
   
-  <a href="https://twitter.com/TechnicallyAJ">
+  <a href="https://twitter.com/TechnicallyAJ" id="twitter">
     <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge">
   </a>
 </div>
@@ -18,18 +18,35 @@
   <a href="">
     <img src="https://komarev.com/ghpvc/?username=TechnicallyAustin&style=flat-square&color=blue" alt=""/>
   </a>
-    </div>
-  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TechnicallyAustin&theme=ambient-gradient&card_width=1000)](https://git.io/streak-stats)
+</div>
+    
+   ---
+   
+     - 🔭 I’m currently working on ...
+     -
+     -
+     -
+     -
+     -
+   
+ <a id="github-streak">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=TechnicallyAustin&theme=ambient-gradient&card_width=1000">
+ </a>
+ 
+ <div id="working-on" align="center" style="display: flex; flex-direction: row;">
+ 
+ <div>
+  <a id="github-stats" align="left">
+   <img src="https://github-readme-stats.vercel.app/api?username=TechnicallyAustin&count_private=true">
+  </a>
+ </div>
+ 
 
-  [![Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=TechnicallyAustin&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ 
+ </div>
 
-
-  
-
-### Hello There! 👋
   ---
-  
   
   ### 🛠️ Languages and Tools :
   <div>
@@ -46,9 +63,11 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+</div>
 
-
-  </div>
+ <a id="top-langs" align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechnicallyAustin">
+ </a>
 
 <!--
 
