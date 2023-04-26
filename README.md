@@ -1,10 +1,9 @@
 <div id="header" align="center">
-  <img src ="https://media.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif" width="45%"/>
+ <!-- <img src ="https://media.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif" width="45%"/> -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1500&center=true&multiline=true&width=1000&height=100&lines=Hey+There%2C+I'm+Austin+Johnson;Technically+Austin+Johnson;Fullstack+Web+Developer+and+Photographer" alt="Typing SVG"/>
+  </a>
 </div>
                                                                                    
-<div id="info" align="center">
-  <h1><i>Technically<i> <em>Austin Johnson</em> </h1>
-
 <div id="social-badges" align="center">
   <a href="https://www.linkedin.com/in/austinjjohnson/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
