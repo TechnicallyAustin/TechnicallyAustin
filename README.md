@@ -5,7 +5,7 @@
 </div>
 
 <div id="avatar" align="center">
- <img src="27DDC5C7-77D7-4E81-ADE7-BF527961DDE5.png" width="25%">
+ <img src="27DDC5C7-77D7-4E81-ADE7-BF527961DDE5.png" width="33%">
 </div>
                                                                                    
 <div id="social-badges" align="center">
