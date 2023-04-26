@@ -3,6 +3,10 @@
    <img src="https://readme-typing-svg.demolab.com? font=Fira+Code&duration=4000&pause=1500&color=135001&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Hey+There%2C+I'm+Austin+Johnson;Technically+Austin+Johnson;Fullstack+Web+Developer+and+Photographer" alt="Typing SVG" />
   </a>
 </div>
+
+<div id="avatar" align="center">
+ <img src="27DDC5C7-77D7-4E81-ADE7-BF527961DDE5.png" width="25%">
+</div>
                                                                                    
 <div id="social-badges" align="center">
   <a href="https://www.linkedin.com/in/austinjjohnson/" id="linkedin">
@@ -22,53 +26,84 @@
     
    ---
    
-     - 🔭 I’m currently working on ...
+       - 🔭 I’m currently working on ...
      -
      -
      -
      -
      -
-   
+  
  <a id="github-streak">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=TechnicallyAustin&theme=ambient-gradient&card_width=1000">
  </a>
  
- <div id="working-on" align="center" style="display: flex; flex-direction: row;">
- 
- <div>
-  <a id="github-stats" align="left">
-   <img src="https://github-readme-stats.vercel.app/api?username=TechnicallyAustin&count_private=true">
-  </a>
- </div>
- 
-
- 
- 
+ <div id="working-on" align="center">
  </div>
 
   ---
   
   ### 🛠️ Languages and Tools :
-  <div>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="Jquery" alt="Jquery" width="40" height="40"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg" title="Rails" alt="Rails" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="Mongodb" alt="Mongodb" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <table align="center">
+   <thead>
+     <th>
+       <a id="github-stats" align="justify">
+        <img src="https://github-readme-stats.vercel.app/api?username=TechnicallyAustin&count_private=true">
+       </a>
+     </th>
+     <th>
+      <a id="top-lang">
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechnicallyAustin&size_weight=0.5&count_weight=0.5">
+      </a>
+     </th>
+    <th> 
+ </table>
 </div>
 
- <a id="top-langs" align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechnicallyAustin">
+<div id="language-badges">
+   <a>
+    <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML" id="HTML">
+   </a>
+    <a>
+    <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS" id="CSS">
+   </a>
+    <a>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="javascript" id="javascript">
+   </a>
+    <a>
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="bootstrap" id="bootstrap">
+   </a>
+    <a>
+    <img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white" alt="jquery" id="jquery">
+   </a>
+    <a>
+    <img src="https://img.shields.io/badge/Ruby-CC342D.svg?style=for-the-badge&logo=Ruby&logoColor=white" alt="ruby" id="ruby">
+   </a>
+    <a>
+    <img src="https://img.shields.io/badge/Ruby%20on%20Rails-CC0000.svg?style=for-the-badge&logo=Ruby-on-Rails&logoColor=white" alt="rails" id="rails">
+   </a>
+   <a>
+    <img src="https://img.shields.io/badge/Webpack-8DD6F9.svg?style=for-the-badge&logo=Webpack&logoColor=black" alt="webpack" id="webpack">
+   </a>
+    <a>
+    <img src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white" alt="sqlite" id="sqlite">
+   </a>
+    <a>
+     <img src="https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white" alt="redux" id="redux">
+    </a>
+    <a>
+     <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoDb" id="MongoDb">
+    </a>
+    <a>
+     <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" alt="Express" id="Express">
+    </a>
+    <a>
+     <img src="https://img.shields.io/badge/Mocha-8D6748.svg?style=for-the-badge&logo=Mocha&logoColor=white" alt="Mocha" id="Mocha">
+    </a>
+    <a>
+     <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Nodejs" id="Nodejs">
  </a>
-
+ 
+ </div>
 <!--
 
 Here are some ideas to get you started:
