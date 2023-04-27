@@ -31,9 +31,9 @@
    ---
 
  <div id="currently">
-  <table>
+  <table width="100%">
    <tr>
-    <td width=55%">
+    <td width="40%">
   <ul>
    <li>🔭 I’m currently working on ...</li>
    <li>🌱 I’m currently learning ...</li>
@@ -42,7 +42,7 @@
    <li>Check out my Stats!</li>
   </ul>
      </td>
-    <td>
+    <td width="60%">
      <a>
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TechnicallyAustin">
      </a>
