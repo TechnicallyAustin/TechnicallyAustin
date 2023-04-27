@@ -1,11 +1,11 @@
 <div id="header" align="center">
  <a href="https://git.io/typing-svg">
-   <img src="https://readme-typing-svg.demolab.com? font=Fira+Code&duration=4000&pause=1500&color=135001&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Hey+There%2C+I'm+Austin+Johnson;Technically+Austin+Johnson;Fullstack+Web+Developer+and+Photographer" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=4000&pause=200&color=135001&background=FFFFFF&center=true&vCenter=true&multiline=true&width=1000&height=160&lines=Hey+There%2C+I'm+Austin+Johnson;Technically+Austin+Johnson;Fullstack+Web+Developer+and+Photographer" alt="Typing SVG" /></a>
+
 </div>
 
 <div id="avatar" align="center">
- <img src="27DDC5C7-77D7-4E81-ADE7-BF527961DDE5.png" width="33%">
+ <img src="27DDC5C7-77D7-4E81-ADE7-BF527961DDE5.png" width="25%">
 </div>
                                                                                    
 <div id="social-badges" align="center">
@@ -23,43 +23,44 @@
     <img src="https://komarev.com/ghpvc/?username=TechnicallyAustin&style=flat-square&color=blue" alt=""/>
   </a>
 </div>
+ 
+ <div id="about-me">
+   <p> This is my about me section. Ill talk a bit about who i am and what i do know what learning paths i have taken and what i hope to achieve.</p>
+ </div>
     
    ---
-   
-       - 🔭 I’m currently working on ...
-     -
-     -
-     -
-     -
-     -
+ 
+ <div id="currently">
+  <ul>
+   <li>🔭 I’m currently working on ...</li>
+   <li>🌱 I’m currently learning ...</li>
+   <li>👯 I’m looking to collaborate on ...</li>
+   <li>🤔 I’m looking for help with ...</li>
+   <li>Check out my Stats!</li>
+  </ul> 
+ </div>
   
  <a id="github-streak">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=TechnicallyAustin&theme=ambient-gradient&card_width=1000">
  </a>
- 
- <div id="working-on" align="center">
- </div>
 
   ---
   
   ### 🛠️ Languages and Tools :
-  <table align="center">
-   <thead>
-     <th>
+  <table align="center" width="1000px">
+   <tr>
+     <td width="40%">
        <a id="github-stats" align="justify">
         <img src="https://github-readme-stats.vercel.app/api?username=TechnicallyAustin&count_private=true">
        </a>
-     </th>
-     <th>
-      <a id="top-lang">
+     </td>
+     <td>
+      <a id="top-lang" width="40%">
        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechnicallyAustin&size_weight=0.5&count_weight=0.5">
       </a>
-     </th>
-    <th> 
- </table>
-</div>
-
-<div id="language-badges">
+     </td>
+    <td width="30%">
+     <div id="language-badges" align="center">
    <a>
     <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML" id="HTML">
    </a>
@@ -104,6 +105,13 @@
  </a>
  
  </div>
+    </td>
+    
+   </tr>
+ </table>
+
+
+
 <!--
 
 Here are some ideas to get you started:
