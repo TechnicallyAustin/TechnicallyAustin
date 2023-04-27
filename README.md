@@ -29,15 +29,27 @@
  </div>
     
    ---
- 
+
  <div id="currently">
+  <table>
+   <tr>
+    <td width=55%">
   <ul>
    <li>🔭 I’m currently working on ...</li>
    <li>🌱 I’m currently learning ...</li>
    <li>👯 I’m looking to collaborate on ...</li>
    <li>🤔 I’m looking for help with ...</li>
    <li>Check out my Stats!</li>
-  </ul> 
+  </ul>
+     </td>
+    <td>
+     <a>
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TechnicallyAustin">
+     </a>
+    </td>
+   </tr>
+   </table>
+  
  </div>
   
  <a id="github-streak">
@@ -49,7 +61,7 @@
   ### 🛠️ Languages and Tools :
   <table align="center" width="1000px">
    <tr>
-     <td width="40%">
+     <td width="60%">
        <a id="github-stats" align="justify">
         <img src="https://github-readme-stats.vercel.app/api?username=TechnicallyAustin&count_private=true">
        </a>
@@ -59,8 +71,9 @@
        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechnicallyAustin&size_weight=0.5&count_weight=0.5">
       </a>
      </td>
-    <td width="30%">
-     <div id="language-badges" align="center">
+    
+   </tr>                                                                                                             </table>
+ <div id="language-badges" align="center">
    <a>
     <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML" id="HTML">
    </a>
@@ -105,10 +118,6 @@
  </a>
  
  </div>
-    </td>
-    
-   </tr>
- </table>
 
 
 
