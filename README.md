@@ -35,8 +35,8 @@
    <tr>
     <td width="40%">
   <ul>
-   <li>🔭 I’m currently working on ...</li>
-   <li>🌱 I’m currently learning ...</li>
+   <li>🔭 I’m currently working on The Odin Project</li>
+   <li>🌱 I’m currently learning Mern Stack</li>
    <li>👯 I’m looking to collaborate on ...</li>
    <li>🤔 I’m looking for help with ...</li>
    <li>Check out my Stats!</li>
