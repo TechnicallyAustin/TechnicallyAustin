@@ -30,7 +30,7 @@
     
    ---
 
- <div id="currently">
+ <div id="currently" align="center">
   <table width="100%">
    <tr>
     <td width="40%">
@@ -43,9 +43,7 @@
   </ul>
      </td>
     <td width="60%">
-     <a>
-      <img src= "https://github-readme-stats.vercel.app/api/wakatime?username=TechnicallyAustin">
-     </a>
+      <img src="https://wakatime.com/share/@TechnicallyAustin/6b3118df-d4e0-45b6-bec4-ab00b32a129d.svg" width="100%">
     </td>
    </tr>
    </table>
@@ -59,7 +57,7 @@
   ---
   
   ### 🛠️ Languages and Tools :
-  <table align="center" width="1000px">
+  <table align="center" width="100%">
    <tr>
      <td width="60%">
        <a id="github-stats" align="justify">
