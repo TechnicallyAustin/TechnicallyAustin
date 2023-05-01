@@ -33,7 +33,7 @@
  <div id="currently" align="center">
   <table width="100%">
    <tr>
-    <td width="40%">
+    <td width=45%">
   <ul>
    <li>🔭 I’m currently working on The Odin Project</li>
    <li>🌱 I’m currently learning Mern Stack</li>
@@ -42,7 +42,7 @@
    <li>Check out my Stats!</li>
   </ul>
      </td>
-    <td width="60%">
+    <td width=55%">
       <img src="https://wakatime.com/share/@TechnicallyAustin/6b3118df-d4e0-45b6-bec4-ab00b32a129d.svg" width="100%">
     </td>
    </tr>
@@ -61,12 +61,12 @@
    <tr>
      <td width="60%">
        <a id="github-stats" align="justify">
-        <img src="https://github-readme-stats.vercel.app/api?username=TechnicallyAustin&count_private=true">
+        <img src="https://github-readme-stats.vercel.app/api?username=TechnicallyAustin&count_private=true" width="100%">
        </a>
      </td>
      <td>
       <a id="top-lang" width="40%">
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechnicallyAustin&size_weight=0.5&count_weight=0.5">
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechnicallyAustin&size_weight=0.5&count_weight=0.5" width="100%">
       </a>
      </td>
     
