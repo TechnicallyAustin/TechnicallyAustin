@@ -44,7 +44,7 @@
      </td>
     <td width="60%">
      <a>
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TechnicallyAustin">
+      <img src= "https://github-readme-stats.vercel.app/api/wakatime?username=TechnicallyAustin">
      </a>
     </td>
    </tr>
