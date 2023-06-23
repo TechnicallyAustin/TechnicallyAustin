@@ -25,7 +25,7 @@
 </div>
  
  <div id="about-me">
-   <p> This is my about me section. Ill talk a bit about who i am and what i do know what learning paths i have taken and what i hope to achieve.</p>
+   <p> Self taught software developer looking for opportunites to prove my skills and continue learning.</p>
  </div>
     
    ---
