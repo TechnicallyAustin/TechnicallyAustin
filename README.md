@@ -25,7 +25,7 @@
 </div>
  
  <div id="about-me">
-   <p> Self taught software developer looking for opportunites to prove my skills and continue learning.</p>
+   <p>Software developer looking for opportunites to prove my skills and continue learning.</p>
  </div>
     
    ---
