@@ -24,7 +24,7 @@
   </a>
 </div>
  
- <div id="about-me">
+ <div id="about-me" align="center">
    <p>Software developer looking for opportunites to prove my skills and continue learning.</p>
  </div>
     
