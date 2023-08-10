@@ -81,6 +81,8 @@
     <a>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="javascript" id="javascript">
    </a>
+  <a>Add React</a>
+  <a> Mimick technologies from personal site</a>
     <a>
     <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="bootstrap" id="bootstrap">
    </a>
