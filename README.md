@@ -35,8 +35,6 @@
    <tr>
     <td width=45%">
   <ul>
-   <li>🔭 I’m currently working on The Odin Project</li>
-   <li>🌱 I’m currently learning Mern Stack</li>
    <li>👯 I’m looking to collaborate on Anythig interesting</li>
    <li>🤔 I’m looking for help with Finding Jobs</li>
    <li>Check out my Stats!</li>
@@ -81,8 +79,6 @@
     <a>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="javascript" id="javascript">
    </a>
-  <a>Add React</a>
-  <a> Mimick technologies from personal site</a>
     <a>
     <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="bootstrap" id="bootstrap">
    </a>
