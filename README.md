@@ -82,6 +82,9 @@
     <a>
     <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="bootstrap" id="bootstrap">
    </a>
+  <a>
+   <img src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white' alt="TW" id="TW"/>
+   <a/>
     <a>
     <img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white" alt="jquery" id="jquery">
    </a>
@@ -107,11 +110,17 @@
      <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" alt="Express" id="Express">
     </a>
     <a>
-     <img src="https://img.shields.io/badge/Mocha-8D6748.svg?style=for-the-badge&logo=Mocha&logoColor=white" alt="Mocha" id="Mocha">
+     <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" alt="Jeset" id="Jest">
     </a>
+  <a>
+   <img src='https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white' alt='Azure' id='Azure'/>
     <a>
      <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Nodejs" id="Nodejs">
  </a>
+ <a>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" id="Figma"/>
+ </a>
+ 
  
  </div>
 
