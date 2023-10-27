@@ -35,8 +35,8 @@
    <tr>
     <td width=45%">
   <ul>
-   <li>👯 I’m looking to collaborate on Anything interesting</li>
-   <li>🤔 I’m looking for help with Finding Jobs</li>
+   <li</li>
+   <li>🤔 I’m looking for work opportunities.</li>
    <li>Check out my Stats!</li>
   </ul>
      </td>
