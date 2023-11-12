@@ -35,9 +35,8 @@
    <tr>
     <td width=45%">
   <ul>
-   <li</li>
-   <li>🤔 I’m looking for work opportunities.</li>
-   <li>Check out my Stats!</li>
+   <li>Currently looking for Frontend or Fullstack Development opportunities</li>
+
   </ul>
      </td>
     <td width=55%">
