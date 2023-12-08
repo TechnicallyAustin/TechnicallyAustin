@@ -25,7 +25,7 @@
 </div>
  
  <div id="about-me" align="center">
-   <p>Software developer looking for opportunites to prove my skills and continue learning.</p>
+   <p>Software developer looking for work opportunites </p>
  </div>
     
    ---
