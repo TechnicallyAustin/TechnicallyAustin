@@ -25,7 +25,7 @@
 </div>
  
  <div id="about-me" align="center">
-   <p>Software developer looking for work opportunites </p>
+   <p>Software developer looking for work opportunites we a fullstsck or front end developer </p>
  </div>
     
    ---
