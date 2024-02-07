@@ -45,12 +45,8 @@
    </tr>
    </table>
 
-     
- <a id="github-streak">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=TechnicallyAustin&theme=ambient-gradient&card_width=1000">
- </a>
 
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=technicallyaustin" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=technicallyaustin" alt="GitHub Streak" /></a>
   
  </div>
 
