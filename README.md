@@ -46,10 +46,6 @@
    </table>
   
  </div>
-  
- <a id="github-streak">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=TechnicallyAustin&theme=ambient-gradient&card_width=1000">
- </a>
 
   ---
   
