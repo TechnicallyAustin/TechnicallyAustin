@@ -35,7 +35,7 @@
    <tr>
     <td width=45%">
   <ul>
-   <li>Currently looking for Frontend or Fullstack Development opportunities</li>
+   <li>Hey I'm Austin, I Build Things</li>
 
   </ul>
      </td>
